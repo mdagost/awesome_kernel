@@ -1,0 +1,5 @@
+{
+    "display_name": "everything_is_awesome",
+    "language": "python",
+    "argv":["python", "-m","awesome_kernel", "-f", "{connection_file}"]
+}
